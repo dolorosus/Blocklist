@@ -1,4 +1,5 @@
 accounts.binance.com
+adblock-pro-download.com
 adblockenterpriseedition.com
 adblockenterpriseedition.info
 adblockenterpriseedition.net
@@ -34,6 +35,7 @@ chomecleaner.com
 choosedaterepair.best
 clickunfit.com
 clks.digitalflare.io
+connect.facebook.net
 consideratepronouncedcar.com
 de.prioritisemyhealth.com
 de.shein.com
@@ -52,6 +54,8 @@ geo.yahoo.com
 glixaing.com
 googleads.g.doubleclick.net
 greenadblocker.com
+guce.advertising.com
+guce.techcrunch.com
 hoistchart.com
 hotsince82wins.com
 independentdespisedevolution.com
@@ -66,12 +70,15 @@ landing.hentaiheroes.com
 luckstars.co
 med.etoro.com
 mobile.pipe.aria.microsoft.com
+nohost.lan
 nta1vb6cdlrl.com
 onclickalgo.com
+p.asdfix.com
 p.srxy.xyz
 plarium.com
 prepenseprepensedefiance.com
 reading-cursors.com
+report-click.clickajobs.io
 reports.crashlytics.com
 rigdangerousnightingale.com
 saojseyqdlmuuck
@@ -97,7 +104,9 @@ video-adblocker.pro
 vortex.data.microsoft.com
 watchadsfree.com
 www.bestgamesvault.com
+www.betano.de
 www.caxino.com
+www.chromnius.com
 www.gewinnendesuche.site
 www.gewinnerheute.site
 www.googleadservices.com
