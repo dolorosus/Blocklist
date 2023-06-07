@@ -132,6 +132,8 @@ a.anvilworker.top
 wait4.skin
 vidconvert.io
 report-apply.clickajobs.io
+d3hdbjtb1686tn.cloudfront.net
+s.hisp.in
 
 
 
