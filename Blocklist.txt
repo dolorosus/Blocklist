@@ -2,7 +2,7 @@
 ||avocet.io^
 ||binance.com^
 ||google-free-win-some.com^
-||googleadservices.com
+||googleadservices.com^
 ||mavrtracktor.com^
 ||watchadfree.info^
 ||watchadsfree.com^
@@ -147,5 +147,6 @@ www.wazazu.com
 www.wildnaturetab.com
 ycxrl.com
 yonsandileer.com
+
 
 
