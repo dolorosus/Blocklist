@@ -17,6 +17,7 @@
 ||stopadblocker^
 ||watchadsfree^
 ||video-adblocker^
+||welcome.tipico^
 affiliate.lunarpages.com
 affiliatesys.ads-tracking.com
 api.defaultnewtab.com
@@ -128,8 +129,6 @@ vortex.data.microsoft.com
 wait4.skin
 walknotice.com
 watchadfree.info
-welcome.tipico.com
-welcome.tipico.de
 www.bestgamesvault.com
 www.betano.de
 www.casinotopsonline.com
@@ -159,6 +158,7 @@ whitebit.com
 www.mind-mood.support
 track.wargaming-aff.com
 oundhertobeconsist.org
+
 
 
 
