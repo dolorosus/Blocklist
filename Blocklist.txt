@@ -1,10 +1,10 @@
-||mavrtracktor.com/
-||anvilworker.top/
-||adblockenterpriseedition./
-||adzblockenterpriseedition./
-||adblockereclipse./
-||adsblockersentinel./
-||adzblockersentinel./
+||mavrtracktor.com^
+||anvilworker.top^
+||adblockenterpriseedition^
+||adzblockenterpriseedition^
+||adblockereclipse^
+||adsblockersentinel^
+||adzblockersentinel^
 
 accounts.binance.com
 adblockenterpriseedition.com
@@ -174,6 +174,7 @@ whitebit.com
 www.mind-mood.support
 track.wargaming-aff.com
 oundhertobeconsist.org
+
 
 
 
