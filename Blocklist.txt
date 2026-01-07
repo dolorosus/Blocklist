@@ -1,4 +1,3 @@
-(\.|^)(\.*)ad\.blockenterpriseedition(\.*)$
 ||anvilworker.top^
 ||avocet.io^
 ||binance.com^
@@ -148,4 +147,5 @@ www.wazazu.com
 www.wildnaturetab.com
 ycxrl.com
 yonsandileer.com
+
 
