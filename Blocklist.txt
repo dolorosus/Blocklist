@@ -18,6 +18,7 @@
 ||watchadsfree^
 ||video-adblocker^
 ||welcome.tipico^
+||track.wargaming-aff^
 affiliate.lunarpages.com
 affiliatesys.ads-tracking.com
 api.defaultnewtab.com
@@ -47,7 +48,6 @@ consideratepronouncedcar.com
 d3hdbjtb1686tn.cloudfront.net
 dcylog.com
 de.prioritisemyhealth.com
-de.shein.com
 dispatchfeed.com
 displayvertising.com
 eacdn.com
@@ -108,8 +108,6 @@ slaveforgetfulsneak.com
 snapbabes1.com
 ssl.google-analytics.com
 start.amateurcommunity.com
-stopadblocker.com
-stopadblocker.pro
 stumbledabetsuburb.com
 sturdyinvaluable.com
 suburbglaze.com	
@@ -154,10 +152,9 @@ omoneyandfarto.com
 whitebit.com
 adcell.com
 designhubapp.com
-whitebit.com
 www.mind-mood.support
-track.wargaming-aff.com
 oundhertobeconsist.org
+
 
 
 
