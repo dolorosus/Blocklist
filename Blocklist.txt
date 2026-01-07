@@ -5,31 +5,18 @@
 ||adblockereclipse^
 ||adsblockersentinel^
 ||adzblockersentinel^
-
-accounts.binance.com
-adblockenterpriseedition.com
-adblockenterpriseedition.info
-adblockenterpriseedition.net
-adblockereclipse.net
-adblockertool.com
-ad-blocking24.net
-adblock-one-protection.com
-adblock-pro-download.com
-adblock-zen-download.com
-ads.avocet.io
-adsblockenterpriseedition.com
-adsblockenterpriseedition.info
-adsblockenterpriseedition.net
-adsblockersentinel.com
-adsblockersentinel.info
-adsblockersentinel.net
-adsblockerstopper.pro
-adzblockenterpriseedition.com
-adzblockenterpriseedition.info
-adzblockenterpriseedition.net
-adzblockersentinel.com
-adzblockersentinel.info
-adzblockersentinel.net
+||ad-blocking24^
+||adblock-one-protection^
+||binance^
+||adblockertool^
+||ad-blocking24^
+||adblock-pro-download.com^
+||adblock-zen-download.com^
+||ads.avocet.io^
+||adsblockerstopper^
+||stopadblocker^
+||watchadsfree^
+||video-adblocker^
 affiliate.lunarpages.com
 affiliatesys.ads-tracking.com
 api.defaultnewtab.com
@@ -137,12 +124,10 @@ usenetjunction.com
 usercentrics.com
 veerooperofthewo.com
 vidconvert.io
-video-adblocker.pro
 vortex.data.microsoft.com
 wait4.skin
 walknotice.com
 watchadfree.info
-watchadsfree.com
 welcome.tipico.com
 welcome.tipico.de
 www.bestgamesvault.com
@@ -174,6 +159,7 @@ whitebit.com
 www.mind-mood.support
 track.wargaming-aff.com
 oundhertobeconsist.org
+
 
 
 
