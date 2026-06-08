@@ -6,6 +6,16 @@
 ||mavrtracktor.com^
 ||watchadfree.info^
 ||watchadsfree.com^
+
+ios_com.brd.earnapp
+win_earnapp.com
+mac_com.earnapp
+proxyjs.brdtnet.com
+proxyjs.luminatinet.com
+proxyjs.bright-sdk.com
+clientsdk.bright-sdk.com
+clientsdk.brdtnet.com
+
 abdlmatch.com
 ad-blocking24.net
 adblock-one-protection.com
