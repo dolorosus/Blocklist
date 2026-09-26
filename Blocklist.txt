@@ -6,6 +6,7 @@
 ||mavrtracktor.com^
 ||watchadfree.info^
 ||watchadsfree.com^
+||fastdntrk.com^
 
 ios_com.brd.earnapp
 win_earnapp.com
